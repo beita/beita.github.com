@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0B34DB44-6803-464F-BDAB-B8ACF64ABDCB</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-01-05T14:17:18+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:9D41837E-40C6-49C9-B7A6-9BCB5C32C899</id>
+  <title>主页</title>
+  <title xmlns="urn:iweb:">主页</title>
+  <in-navbar xmlns="urn:iweb:">9D41837E-40C6-49C9-B7A6-9BCB5C32C899</in-navbar>
+  <link rel="alternate" href="zhu_ye.html"/>
+  <updated>2012-01-05T14:17:18.001+08:00</updated>
+  <content>主页</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E7ABCA43-C770-4160-9EB1-CDF611EF776C</id>
+  <title>我的相簿</title>
+  <title xmlns="urn:iweb:">我的相簿</title>
+  <in-navbar xmlns="urn:iweb:">E7ABCA43-C770-4160-9EB1-CDF611EF776C</in-navbar>
+  <link rel="alternate" href="wo_de_xiang_bu/wo_de_xiang_bu.html"/>
+  <updated>2012-01-05T14:17:18.002+08:00</updated>
+  <content>我的相簿</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:768D5ACF-5D70-4BF5-B0AF-4C9D30A936E5</id>
+  <title>视频点播</title>
+  <title xmlns="urn:iweb:">视频点播</title>
+  <in-navbar xmlns="urn:iweb:">768D5ACF-5D70-4BF5-B0AF-4C9D30A936E5</in-navbar>
+  <link rel="alternate" href="shi_pin_dian_bo/shi_pin_dian_bo.html"/>
+  <updated>2005-09-21T09:08:38+08:00</updated>
+  <content>视频点播</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:54E7E1F0-5A10-4762-8341-442FB7230E13</id>
+  <title>关于我</title>
+  <title xmlns="urn:iweb:">关于我</title>
+  <in-navbar xmlns="urn:iweb:">54E7E1F0-5A10-4762-8341-442FB7230E13</in-navbar>
+  <link rel="alternate" href="guan_yu_wo.html"/>
+  <updated>2012-01-05T14:17:18.003+08:00</updated>
+  <content>关于我</content>
+ </entry>
+</feed>

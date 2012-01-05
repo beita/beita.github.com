@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>关于我的视频</title>
+    <link>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/shi_pin_dian_bo.html</link>
+    <description>爸爸妈妈虽然给我拍了很多视频，但是因为我实在太懒了，到现在为止我还只出了一个正式的视频片段，爸爸妈妈要加油哦...</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/shi_pin_dian_bo_files/%20%28134%29.jpg</url>
+      <title>关于我的视频</title>
+      <link>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/shi_pin_dian_bo.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>爸爸妈妈虽然给我拍了很多视频，但是因为我实在太懒了，到现在为止我还只出了一个正式的视频片段，爸爸妈妈要加油哦...</itunes:subtitle>
+    <itunes:summary>爸爸妈妈虽然给我拍了很多视频，但是因为我实在太懒了，到现在为止我还只出了一个正式的视频片段，爸爸妈妈要加油哦...</itunes:summary>
+    <itunes:image href="http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/shi_pin_dian_bo_files/%20%28134%29.jpg"/>
+    <language>zh_CN</language>
+    <item>
+      <title>爸爸给我做的第一个视频</title>
+      <link>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/tiao_mu/2012/1/5_wo_de_ji_qi_ren_shou_cang.html</link>
+      <guid isPermaLink="false">291684e8-0288-4be4-a6e9-a35c8b33855a</guid>
+      <pubDate>Thu, 5 Jan 2012 13:42:17 +0800</pubDate>
+      <description>&lt;a href=&quot;http://zhoudeming.com/Beta_de_zhu_ye/Media/ZHOU%20Deming%20-%20720p%20-%20Wi-Fi.m4v&quot;&gt;&lt;img src=&quot;http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/Media/ZHOU%20Deming%20-%20720p%20-%20Wi-Fi_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:207px; height:116px;&quot;/&gt;&lt;/a&gt;这个是我刚出生时候爸爸用iPhone给我拍的视频，里面有很多有意思的片段啊。我是不是很可爱啊...</description>
+      <enclosure url="http://zhoudeming.com/Beta_de_zhu_ye/Media/ZHOU%20Deming%20-%20720p%20-%20Wi-Fi.m4v" length="9260243" type="video/x-m4v"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:18</itunes:duration>
+      <itunes:subtitle>这个是我刚出生时候爸爸用iPhone给我拍的视频，里面有很多有意思的片段啊。我是不是很可爱啊...</itunes:subtitle>
+      <itunes:summary>这个是我刚出生时候爸爸用iPhone给我拍的视频，里面有很多有意思的片段啊。我是不是很可爱啊...</itunes:summary>
+    </item>
+  </channel>
+</rss>

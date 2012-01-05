@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>我的相簿</title>
+    <link>http://zhoudeming.com/Beta_de_zhu_ye/wo_de_xiang_bu/wo_de_xiang_bu.html</link>
+    <description>我的相簿</description>
+    <item>
+      <title>周岁照</title>
+      <link>http://zhoudeming.com/Beta_de_zhu_ye/wo_de_xiang_bu/ye_mian/zhou_sui_zhao.html</link>
+      <guid isPermaLink="false">28926f83-a1d6-4944-bd7b-4c1dbb2790da</guid>
+    </item>
+  </channel>
+</rss>

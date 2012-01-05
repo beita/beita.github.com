@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>&#x89C6;&#x9891;&#x70B9;&#x64AD;</title>
+    <link>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo</link>
+    <description>&#x7238;&#x7238;&#x5988;&#x5988;&#x867D;&#x7136;&#x7ED9;&#x6211;&#x62CD;&#x4E86;&#x5F88;&#x591A;&#x89C6;&#x9891;&#xFF0C;&#x4F46;&#x662F;&#x56E0;&#x4E3A;&#x6211;&#x5B9E;&#x5728;&#x592A;&#x61D2;&#x4E86;&#xFF0C;&#x5230;&#x73B0;&#x5728;&#x4E3A;&#x6B62;&#x6211;&#x8FD8;&#x53EA;&#x51FA;&#x4E86;&#x4E00;&#x4E2A;&#x6B63;&#x5F0F;&#x7684;&#x89C6;&#x9891;&#x7247;&#x6BB5;&#xFF0C;&#x7238;&#x7238;&#x5988;&#x5988;&#x8981;&#x52A0;&#x6CB9;&#x54E6;...</description>
+    <item>
+      <title>&#x7238;&#x7238;&#x7ED9;&#x6211;&#x505A;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x89C6;&#x9891;</title>
+      <link>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/tiao_mu/2012/1/5_wo_de_ji_qi_ren_shou_cang.html</link>
+      <guid isPermaLink="false">291684e8-0288-4be4-a6e9-a35c8b33855a</guid>
+      <pubDate>Thu, 5 Jan 2012 13:42:17 +0800</pubDate>
+      <description>&#x8FD9;&#x4E2A;&#x662F;&#x6211;&#x521A;&#x51FA;&#x751F;&#x65F6;&#x5019;&#x7238;&#x7238;&#x7528;iPhone&#x7ED9;&#x6211;&#x62CD;&#x7684;&#x89C6;&#x9891;&#xFF0C;&#x91CC;&#x9762;&#x6709;&#x5F88;&#x591A;&#x6709;&#x610F;&#x601D;&#x7684;&#x7247;&#x6BB5;&#x554A;&#x3002;&#x6211;&#x662F;&#x4E0D;&#x662F;&#x5F88;&#x53EF;&#x7231;&#x554A;...</description>
+      <iweb:image href="Media/ZHOU%20Deming%20-%20720p%20-%20Wi-Fi.jpg"></iweb:image>
+      <iweb:badge type="movie"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo/tiao_mu/2012/1/5_wo_de_ji_qi_ren_shou_cang.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://zhoudeming.com/Beta_de_zhu_ye/shi_pin_dian_bo</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
