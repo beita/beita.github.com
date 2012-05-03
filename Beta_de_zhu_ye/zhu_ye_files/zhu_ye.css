@@ -93,7 +93,7 @@
 .Normal_External_620_63 {
     position: relative;
 }
-.Normal_External_420_270 {
+.Normal_External_420_127 {
     position: relative;
 }
 .Normal_External_420_34 {
@@ -184,6 +184,18 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: rgb(50, 85, 110);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(85, 98, 111);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(0, 118, 186);
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;

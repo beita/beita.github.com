@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="5009712E-7582-47BC-A50D-023A61946D04">
+  <lastEdited clientType="local-build-20120503" date="2012-05-03 09:53:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&#x571F;&#x8C46;&#x6CE5;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2012&#x5E74;5&#x6708;3&#x65E5;&#x661F;&#x671F;&#x56DB;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&#x6211;&#x7231;&#x5403;&#x571F;&#x8C46;&#x6CE5;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x6211;&#x548C;&#x7238;&#x7238;&#x5988;&#x5988;&#x53BB;&#x5403;&#x80AF;&#x5FB7;&#x57FA;&#xFF0C;&#x7238;&#x7238;&#x7ED9;&#x6211;&#x4E70;&#x4E86;&#x4E00;&#x4EFD;&#x571F;&#x8C46;&#x6CE5;&#x548C;&#x86CB;&#x631E;&#x3002;&#x80AF;&#x5FB7;&#x57FA;&#x771F;&#x597D;&#x5403;&#x3002;&#x6211;&#x6700;&#x7231;&#x571F;&#x8C46;&#x6CE5;&#x4E86;&#x3002;</richText>
+  </textBox>
+</content>

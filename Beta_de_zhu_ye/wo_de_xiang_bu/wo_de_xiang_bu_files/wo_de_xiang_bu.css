@@ -179,6 +179,31 @@ a:hover {
     color: rgb(50, 85, 110);
     text-decoration: underline;
 }
+#widget6 .Comment_Posted_Date {
+    color: rgb(50, 85, 110);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget6 a {
+    color: rgb(50, 85, 110);
+    text-decoration: underline;
+}
+#widget6 a:hover {
+    color: rgb(0, 118, 186);
+    text-decoration: underline;
+}
 #id4 div.caption {
     line-height: 26px;
     margin-bottom: 0px;
@@ -196,26 +221,17 @@ a:hover {
     color: rgb(85, 98, 111);
     text-decoration: underline;
 }
+#widget6 a:visited {
+    color: rgb(85, 98, 111);
+    text-decoration: underline;
+}
+#widget7 a {
+    color: rgb(50, 85, 110);
+    text-decoration: underline;
+}
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget4 .Comment_Posted_Date {
-    color: rgb(50, 85, 110);
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    text-align: left;
-    text-decoration: none;
-    text-transform: none;
 }
 #widget0 a:visited {
     color: rgb(85, 98, 111);
@@ -229,10 +245,7 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-#id4 canvas {
-    z-index: -1;
-}
-#widget5 .Comment_Posted_Date {
+#widget7 .Comment_Posted_Date {
     color: rgb(50, 85, 110);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -249,12 +262,23 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
+#id4 canvas {
+    z-index: -1;
+}
+#widget7 a:visited {
+    color: rgb(85, 98, 111);
+    text-decoration: underline;
+}
 #widget4 a:hover {
     color: rgb(0, 118, 186);
     text-decoration: underline;
 }
 #widget5 a:visited {
     color: rgb(85, 98, 111);
+    text-decoration: underline;
+}
+#widget7 a:hover {
+    color: rgb(0, 118, 186);
     text-decoration: underline;
 }
 #widget3 a:visited {

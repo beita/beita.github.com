@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20120105
+// Created by iWeb 3.0.4 local-build-20120503
 
 function createMediaStream_id5()
 {return IWCreatePhotocast("http://zhoudeming.com/Beta_de_zhu_ye/wo_de_xiang_bu/ye_mian/zhou_sui_zhao_files/rss.xml",true);}

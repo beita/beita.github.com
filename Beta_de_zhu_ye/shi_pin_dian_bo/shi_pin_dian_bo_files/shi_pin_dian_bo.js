@@ -1,7 +1,7 @@
-// Created by iWeb 3.0.4 local-build-20120105
+// Created by iWeb 3.0.4 local-build-20120503
 
 setTransparentGifURL('../Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,166),url:'shi_pin_dian_bo_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'shi_pin_dian_bo_files/stroke_1.png'},{rect:new IWRect(1,-1,221,2),url:'shi_pin_dian_bo_files/stroke_2.png'},{rect:new IWRect(222,-1,2,2),url:'shi_pin_dian_bo_files/stroke_3.png'},{rect:new IWRect(222,1,2,166),url:'shi_pin_dian_bo_files/stroke_4.png'},{rect:new IWRect(222,167,2,1),url:'shi_pin_dian_bo_files/stroke_5.png'},{rect:new IWRect(1,167,221,1),url:'shi_pin_dian_bo_files/stroke_6.png'},{rect:new IWRect(-1,167,2,1),url:'shi_pin_dian_bo_files/stroke_7.png'}],new IWSize(223,167)),shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(1.2856,1.5321),color:'#ffffff',opacity:1.000000})});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(1.2856,1.5321),color:'#ffffff',opacity:1.000000}),stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,166),url:'shi_pin_dian_bo_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'shi_pin_dian_bo_files/stroke_1.png'},{rect:new IWRect(1,-1,221,2),url:'shi_pin_dian_bo_files/stroke_2.png'},{rect:new IWRect(222,-1,2,2),url:'shi_pin_dian_bo_files/stroke_3.png'},{rect:new IWRect(222,1,2,166),url:'shi_pin_dian_bo_files/stroke_4.png'},{rect:new IWRect(222,167,2,1),url:'shi_pin_dian_bo_files/stroke_5.png'},{rect:new IWRect(1,167,221,1),url:'shi_pin_dian_bo_files/stroke_6.png'},{rect:new IWRect(-1,167,2,1),url:'shi_pin_dian_bo_files/stroke_7.png'}],new IWSize(223,167))});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function photocastSubscribe()
